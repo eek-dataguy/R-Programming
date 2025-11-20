@@ -1,4 +1,3 @@
-# Rebranded for a student learning how R list subsetting maps to Python (dict/list) subsetting.
 # Notes:
 #  - R lists with names ~ Python dicts mapping string keys to values
 #  - R vectors ~ Python lists
