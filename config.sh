@@ -29,4 +29,5 @@ EOD
 
 echo "Installing languageserver package in R..."
 sudo Rscript -e 'install.packages("languageserver", repos="https://cloud.r-project.org")'
-sudo Rscript -e 'install.packages("httpgd", repos="https://cloud.r-project.org")'
+sudo Rscript -e 'install.packages("httpgd")'
+sudo Rscript -e 'install.packages("swirl")'
