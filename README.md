@@ -1,5 +1,5 @@
 # R-Programming
-This repo is for learning purpose only
+This repository is designed for **learning purposes only** and serves as a comprehensive introduction to programming in **R**, a powerful language for data analysis and statistical computing. The course is structured into four modules, gradually building your skills from the basics to advanced techniques:
 
 # Course Structure
 ## Module 1 - Getting Started, and Nuts & Bolts
