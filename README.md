@@ -50,8 +50,26 @@ This repo is for learning purpose only
     - Scoping Rules - Optimization Example
     - Coding Standards
     - Dates and Times
-    - swirl Lession 8 - Logic
-    - swirl Lession 9 - Functions 
-    - swirl Lession 10 - Date and Times
+    - swirl Lession 8: Logic
+    - swirl Lession 9: Functions 
+    - swirl Lession 10: Date and Times
 ## Module 3 - Loop Functions and Debugging
+    - Loop Functions - lapply
+    - Loop Functions - apply
+    - Loop Functions - mapply
+    - Loop Functions - tapply
+    - Loop Functions - split
+    - Debugging Tools - Diagnosing the Problem
+    - Debugging Tools - Basicl Tools
+    - Debugging Tools - Using the Tools
+    - swirl Lession 11: lapply and sapply
+    - swirl Lession 12: vapply and tapply
 ## Module 4 - Simulation & Profiling
+    - The str Function
+    - Simulation - Generating Random Numbers
+    - Simulation - Simulating a Linear Model
+    - Simulation - Random Sampling
+    - R Profiler
+    - swirl Lession 13: Looking at Data
+    - swirl Lession 14: Simulation
+    - swirl Lession 15: Base Graphics
