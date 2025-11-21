@@ -39,5 +39,19 @@ This repo is for learning purpose only
     - swirl Lession 6: Subsetting Vectors
     - swirl Lession 7: Matrices and Data Frames
 ## Module 2 - Programing with R
+    - Control Structures - If-esle
+    - Control Structures - For loops
+    - Control Structures - While loops
+    - Control Structures - Reapeat, Next, Break
+    - Your First R function
+    - Functions 
+    - Scoping Rules - Symbol Binding
+    - Scoping Rules - R Scoping Rules
+    - Scoping Rules - Optimization Example
+    - Coding Standards
+    - Dates and Times
+    - swirl Lession 8 - Logic
+    - swirl Lession 9 - Functions 
+    - swirl Lession 10 - Date and Times
 ## Module 3 - Loop Functions and Debugging
 ## Module 4 - Simulation & Profiling
